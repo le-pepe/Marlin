@@ -279,7 +279,7 @@
   #define Z_PROBE_OFFSET_RANGE_MAX     1
   
   #define Z_MIN_PROBE_REPEATABILITY_TEST
-  #define Z_AFTER_HOMING               5
+  // #define Z_AFTER_HOMING               5
   #define Z_PROBE_LOW_POINT           -10
   
   #if DISABLED(BLTOUCH)
